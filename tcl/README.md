@@ -1,0 +1,1 @@
+ini adalah kumpulan script tcl
